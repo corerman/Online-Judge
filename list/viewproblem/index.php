@@ -5,13 +5,13 @@
 <meta charset="utf-8" />
 <meta name="author" content="Mobify">
 <title>ICCP 挑战详情</title>
-<link rel="stylesheet" href="http://isaves.qiniudn.com/iccp/list/viewproblem/bellows.min.css">
-<link rel="stylesheet" href="http://isaves.qiniudn.com/iccp/list/viewproblem/bellows-theme.min.css">
-<link rel="stylesheet" href="http://isaves.qiniudn.com/iccp/list/viewproblem/main.css">
+<link rel="stylesheet" href="css/bellows.min.css">
+<link rel="stylesheet" href="css/bellows-theme.min.css">
+<link rel="stylesheet" href="css/main.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body class="-bellows" style="background: url('http://isaves.qiniudn.com/bg/iccp/bg2.png');">
+<body class="-bellows" style="background-color:#f5f5f5;">
 
 <div class="viewport">
 	<div class="main-content">
@@ -97,10 +97,10 @@ if(is_dir($commonDir))
 			</div>
 		</div>
 		<!-- JavaScript -->
-		<script src="http://isaves.qiniudn.com/iccp/list/viewproblem/js/jquery-1.10.1.min.js"></script>
-		<script src="http://isaves.qiniudn.com/iccp/list/viewproblem/js/highlight.pack.js"></script>
-		<script src="http://isaves.qiniudn.com/iccp/list/viewproblem/js/velocity.min.js"></script>
-		<script src="http://isaves.qiniudn.com/iccp/list/viewproblem/js/bellows.min.js"></script>
+		<script src="js/jquery-1.10.1.min.js"></script>
+		<script src="js/highlight.pack.js"></script>
+		<script src="js/velocity.min.js"></script>
+		<script src="js/bellows.min.js"></script>
 		<script>
 			$(function(){
 			$('.bellows').bellows();
