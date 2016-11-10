@@ -5,7 +5,7 @@
 
 		body {
 			font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /*  */
-			background: url('http://isaves.qiniudn.com/bg/iccp/bg2.png');
+			background-color:black;
 			color:white;
 		}
 		
@@ -65,15 +65,15 @@
 		}
 		
 		input:required, textarea:required {
-			background:url("http://isaves.qiniudn.com/judge/img/images/asterisk_orange.png") no-repeat 280px 7px;						
+			background:url("images/asterisk_orange.png") no-repeat 280px 7px;						
 		}
 
 		input:valid, textarea:valid {
-			background:url("http://isaves.qiniudn.com/judge/img/images/tick.png") no-repeat 280px 5px;			
+			background:url("images/tick.png") no-repeat 280px 5px;			
 		}		
 
 		input:focus:invalid, textarea:focus:invalid {
-			background:url("http://isaves.qiniudn.com/judge/img/images/cancel.png") no-repeat 280px 7px;						
+			background:url("images/cancel.png") no-repeat 280px 7px;						
 		}
 
 		input[type=submit] {
