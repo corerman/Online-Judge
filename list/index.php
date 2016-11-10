@@ -3,10 +3,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>ICCP Information List</title>
-<link rel="stylesheet" href="http://isaves.qiniudn.com/iccp/list/css/style2.css" media="screen" type="text/css" />
-<link rel="stylesheet" type="text/css" href="http://isaves.qiniudn.com/iccp/list/css/demo.css" />
+<link rel="stylesheet" href="css/style2.css" media="screen" type="text/css" />
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
 <!--必要样式-->
-<link rel="stylesheet" type="text/css" href="http://isaves.qiniudn.com/iccp/list/css/component.css" />
+<link rel="stylesheet" type="text/css" href="component.css" />
 </head>
 <body>
 <?php
@@ -50,8 +50,8 @@ include("./list_function.php");
 	</div>
 
 
-<script src="http://isaves.qiniudn.com/iccp/list/js/jquery.min.js"></script>
-<script src="http://isaves.qiniudn.com/iccp/list/js/jquery.ba-throttle-debounce.min.js"></script>
-<script src="http://isaves.qiniudn.com/iccp/list/js/jquery.stickyheader.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.ba-throttle-debounce.min.js"></script>
+<script src="js/jquery.stickyheader.js"></script>
 </body>
 </html>
