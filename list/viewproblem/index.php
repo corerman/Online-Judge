@@ -11,7 +11,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body class="-bellows" style="background-color:#f5f5f5;">
+<body class="-bellows" style="background-color:black;">
 
 <div class="viewport">
 	<div class="main-content">
