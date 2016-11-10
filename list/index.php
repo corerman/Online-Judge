@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="css/style2.css" media="screen" type="text/css" />
 <link rel="stylesheet" type="text/css" href="css/demo.css" />
 <!--必要样式-->
-<link rel="stylesheet" type="text/css" href="component.css" />
+<link rel="stylesheet" type="text/css" href="css/component.css" />
 </head>
 <body>
 <?php
