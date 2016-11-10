@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>代码评测 CorerMan</title>
-		<link rel="stylesheet" href="http://isaves.qiniudn.com/judge/css/judge2.css" type="text/css" />
+		<link rel="stylesheet" href="css/judge2.css" type="text/css" />
 	</head>
 <body>
     <?php
         include("./function/function.php");
 		include("./function/judgefunc.php");
-        $js="<script src=\"http://isaves.qiniudn.com/judge/js/index.js\"></script>";
+        $js="<script src=\"js/index.js\"></script>";
         
 	/*	error_reporting(E_ALL);
 		ini_set('display_errors', '1');
